@@ -57,7 +57,15 @@ Apapun Yang Anda Kirimkan Kepada BOT Kami Tidak Bertanggung Jawab, Semua Data, U
 |     ✅     | /info |
 |     ✅     | /author |
 |     ✅     | /credit |
-|     ✅     | /infonulis |
+|     ✅     | /donasi |
+|     ✅     | /bc |
+|     ✅     | /clearall |
+|     ✅     | /leave |
+|     ✅     | /delete |
+|     ✅     | /join |
+|     ✅     | /listblock |
+|     ✅     | /tnc |
+
 
 | Premium  |              Fitur                |
 | :------------: | :---------------------------------------------: |
