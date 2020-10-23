@@ -57,9 +57,20 @@ Akan Terhapus Jika BOT Off
 | :------------: | :---------------------------------------------: |
 |       ✅        |   Ada Hari, Tanggal, Bulan, Tahun            |
 
+| Cooming Soon |
+| :----------: |
+| /magernulis2 |
+| /magernulis3 |
+| /magernulis4 |
+| /magernulis5 |
+| /magernulis6 |
+| /magernulis7 |
+| /magernulis8 |
+| /magernulis9 |
+| /magernulis10 |
 
 ## How To Use Premium Feature
-Donate Me Min Rp100.000 And Chat Me wa.me/6281219087237
+Donate Me Min Rp100.000 And Chat Me [`wa.me/6281219087237`](https://wa.me/6281219087237) 
 
 ## Special Thanks to
 * [`Open-Wa/wa-automate-nodejs`](https://github.com/open-wa/wa-automate-nodejs)
@@ -67,8 +78,8 @@ Donate Me Min Rp100.000 And Chat Me wa.me/6281219087237
 * [`MhankBarBar/whatsapp-bot`](https://github.com/MhankBarBar/whatsapp-bot) 
 * [`Stars`](https://github.com/bintang77) 
 * [`GimenzID`](https://github.com/Gimenz)
-* DymidProwID
-* Ilham
+* [`DymidProwID`](https://m.youtube.com/c/DymidProw) 
+* [`Ilham`](https://instagram.com/nezuko.chan.12) 
 * [`Rozie`](https://instagram.com/_rooziee)
 * [`Dandy`](https://github.com/dandyraka)
 * [`SomnathDas/Whatsapp-Botto-Re`](https://github.com/SomnathDas/Whatsapp-Botto-Re)
@@ -77,5 +88,8 @@ Donate Me Min Rp100.000 And Chat Me wa.me/6281219087237
 * [`Saweria https://saweria.co/donate/mfarels`](https://saweria.co/donate/mfarels)
 * [`Pulsa/OVO/GOPAY 0812-1908-7237`](https://github.com/MFarelSyahtiawan/MagerNulis-BOT-By-MFarelS) 
 
-### My WhatsApp Number
-* [`MFarelS`](https://wa.me/6281219087237)
+### Me
+* [`YouTube`](https://m.youtube.com/channel/UCYfBSMa1JJbKwD8bNm-etiA) 
+* [`Instagram`](https://instagram.com/mfarelsyahtiawan) 
+* [`WhatsApp`](https://wa.me/6281219087237)
+
