@@ -51,8 +51,7 @@ Akan Terhapus Jika BOT Off
 
 
 ## How To Use Premium Feature
-```Donate Me Min Rp10.000
-And Chat Me wa.me/6281219087237
+```Donate Me Min Rp100.000 And Chat Me wa.me/6281219087237
 ```
 
 ## Special Thanks to
@@ -62,8 +61,8 @@ And Chat Me wa.me/6281219087237
 * [`GimenzID`](https://github.com/Gimenz)
 * DymidProwID
 * Ilham
-* Rozie
-* Dandi
+* [`Rozie`](https://instagram.com/_rooziee)
+* [`Dandy`](https://github.com/dandyraka)
 * [`SomnathDas/Whatsapp-Botto-Re`](https://github.com/SomnathDas/Whatsapp-Botto-Re)
 
 ### Donate
