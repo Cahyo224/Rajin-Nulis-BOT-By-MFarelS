@@ -17,7 +17,7 @@ Git, NodeJS, ImageMagick, CMD.
 ## Install
 Git, NodeJS, ImageMagick
 
-##Open CMD
+## Open CMD
 ```ketik :
 > git clone https://github.com/git/git
 ```
