@@ -11,8 +11,8 @@
 <a href="https://github.com/mfarelsyahtiawan/MagerNulis-BOT-By-MFarelS/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mfarelsyahtiawan/MagerNulis-BOT-By-MFarelS?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
-## Install
-Install Git, NodeJS, ImageMagick
+## Bahan
+Git, NodeJS, ImageMagick, CMD.
 
 ## En : Clone This Project
 ## Id : Clone Project Ini
