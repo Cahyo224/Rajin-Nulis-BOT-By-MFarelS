@@ -11,13 +11,20 @@
 <a href="https://github.com/mfarelsyahtiawan/MagerNulis-BOT-By-MFarelS/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mfarelsyahtiawan/MagerNulis-BOT-By-MFarelS?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
-## Bahan
+## Download
 Git, NodeJS, ImageMagick, CMD.
 
-## En : Clone This Project
+## Install
+Git, NodeJS, ImageMagick
+
+##Open CMD
+```ketik :
+> git clone https://github.com/git/git
+```
+
 ## Id : Clone Project Ini
 
-```Ex :
+```Ketik :
 > git clone https://github.com/MFarelSyahtiawan/MagerNulis-BOT-By-MFarelS
 ```
 
@@ -36,8 +43,7 @@ Follow Steps
 ```
 
 ## Syarat & Ketentuan
-Apapun Yang Anda Kirimkan Akan Tersimpan DiServer Kami
-Akan Terhapus Jika BOT Off
+Apapun Yang Anda Kirimkan Kepada BOT Kami Tidak Bertanggung Jawab, Semua Data, Username, Gambar Yang Anda Kirimkan Akan Tersimpan Di Server Selama BOT Aktif, Data Akan Terhapus Secara Otomatis Jika BOT Off. 
 
 ## Fitur
 
