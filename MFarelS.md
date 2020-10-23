@@ -45,19 +45,27 @@ Akan Terhapus Jika BOT Off
 | :-----------: | :--------------------------------: |
 |       ✅       | /magernulis1          |
 
+| Other |          :v          |
+| :---------: | :-----------------------: |
+|     ✅     | /menu |
+|     ✅     | /info |
+|     ✅     | /author |
+|     ✅     | /credit |
+|     ✅     | /infonulis |
+
 | Premium  |              Fitur                |
 | :------------: | :---------------------------------------------: |
 |       ✅        |   Ada Hari, Tanggal, Bulan, Tahun            |
 
 
 ## How To Use Premium Feature
-```Donate Me Min Rp100.000 And Chat Me wa.me/6281219087237
-```
+Donate Me Min Rp100.000 And Chat Me wa.me/6281219087237
 
 ## Special Thanks to
 * [`Open-Wa/wa-automate-nodejs`](https://github.com/open-wa/wa-automate-nodejs)
 * [`YogaSakti/imageToSticker`](https://github.com/YogaSakti/imageToSticker) 
 * [`MhankBarBar/whatsapp-bot`](https://github.com/MhankBarBar/whatsapp-bot) 
+* [`Stars`](https://github.com/bintang77) 
 * [`GimenzID`](https://github.com/Gimenz)
 * DymidProwID
 * Ilham
@@ -66,7 +74,8 @@ Akan Terhapus Jika BOT Off
 * [`SomnathDas/Whatsapp-Botto-Re`](https://github.com/SomnathDas/Whatsapp-Botto-Re)
 
 ### Donate
-* [`Saweria`](https://saweria.co/donate/mfarels)
+* [`Saweria https://saweria.co/donate/mfarels`](https://saweria.co/donate/mfarels)
+* [`Pulsa/OVO/GOPAY 0812-1908-7237`](https://github.com/MFarelSyahtiawan/MagerNulis-BOT-By-MFarelS) 
 
-### Number Me
+### My WhatsApp Number
 * [`MFarelS`](https://wa.me/6281219087237)
