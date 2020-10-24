@@ -41,7 +41,7 @@ const start = async (client = new Client()) => {
 
         // listening on Incoming Call
         client.onIncomingCall(( async (call) => {
-            await client.sendText(call.peerJid, 'Maaf, saya tidak bisa menerima panggilan. nelfon = block!')
+            await client.sendText(call.peerJid, 'Maaf, saya tidak bisa menerima panggilan. nelfon = block & blacklist!')
             .then(() => client.contactBlock(call.peerJid))
         }))
     }
