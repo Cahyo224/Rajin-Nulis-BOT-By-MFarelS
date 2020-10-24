@@ -35,7 +35,7 @@ module.exports = msgHandler = async (client, message) => {
         }
 
         const mess = {
-            wait1: 'Harap Tunggu, Bot Sedang Menulis Buku!~'
+            wait: 'Harap Tunggu, Bot Sedang Menulis Buku!~'
             }
 
         const time = moment(t * 1000).format('DD/MM HH:mm:ss')
