@@ -1,5 +1,5 @@
 /*
-Mau Recode? Izin Dong Bgsd
+Mau Recode? Izin Dong Bgsd!
 */
 const { decryptMedia } = require('@open-wa/wa-decrypt')
 const fs = require('fs-extra')
