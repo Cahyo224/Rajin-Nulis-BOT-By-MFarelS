@@ -11,11 +11,12 @@
 <a href="https://github.com/mfarelsyahtiawan/MagerNulis-BOT-By-MFarelS/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mfarelsyahtiawan/MagerNulis-BOT-By-MFarelS?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
-## Download
-Git, NodeJS, ImageMagick, CMD.
+# Rajin Nulis BOT WhatsApp By MFarelS
 
 ## Install
-Git, NodeJS, ImageMagick
+*[`Git`](https://git-scm.com/downloads)
+*[`NodeJS`](https://github.com) 
+*[`ImageMagick`](https://github.com) 
 
 ## Open CMD
 ```ketik :
