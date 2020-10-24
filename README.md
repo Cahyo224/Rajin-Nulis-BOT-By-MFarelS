@@ -14,22 +14,19 @@
 # Rajin Nulis BOT WhatsApp By MFarelS
 
 ## Install
-*[`Git`](https://git-scm.com/downloads)
-*[`NodeJS`](https://github.com) 
-*[`ImageMagick`](https://github.com) 
+[`Git`](https://git-scm.com/downloads)
+[`NodeJS`](https://nodejs.org/en/download) 
+[`ImageMagick`](https://imagemagick.org/script/download.php) 
 
 ## Open CMD
-```ketik :
-> git clone https://github.com/git/git
-```
 
-## Id : Clone Project Ini
+### Clone Project Ini
 
 ```Ketik :
 > git clone https://github.com/MFarelSyahtiawan/MagerNulis-BOT-By-MFarelS
 ```
 
-## Install the dependencies:
+### Install Modul
 Ikutin Ae Caranya
 Follow Steps
 
@@ -62,7 +59,6 @@ Apapun Yang Anda Kirimkan Kepada BOT Kami Tidak Bertanggung Jawab, Semua Data, U
 |     ✅     | /bc |
 |     ✅     | /clearall |
 |     ✅     | /leave |
-|     ✅     | /delete |
 |     ✅     | /join |
 |     ✅     | /listblock |
 |     ✅     | /tnc |
