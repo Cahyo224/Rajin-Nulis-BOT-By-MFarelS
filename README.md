@@ -89,13 +89,14 @@ Donate Me Min Rp50.000 And Chat Me [`wa.me/6281219087237`](https://wa.me/6281219
 * [`Open-Wa/wa-automate-nodejs`](https://github.com/open-wa/wa-automate-nodejs)
 * [`YogaSakti/imageToSticker`](https://github.com/YogaSakti/imageToSticker) 
 * [`MhankBarBar/whatsapp-bot`](https://github.com/MhankBarBar/whatsapp-bot) 
-* [`Stars`](https://github.com/bintang77) 
+* [`Stars`](https://github.com/bintang73) 
 * [`GimenzID`](https://github.com/Gimenz)
 * [`DymidProwID`](https://m.youtube.com/c/DymidProw) 
 * [`Ilham`](https://instagram.com/nezuko.chan.12) 
 * [`Rozie`](https://instagram.com/_rooziee)
 * [`Dandy`](https://github.com/dandyraka)
 * [`Will`](https://instagram.com/its.willl_) 
+* [`BayuPutra`](https://github.com/bayuputra18) 
 * [`SomnathDas/Whatsapp-Botto-Re`](https://github.com/SomnathDas/Whatsapp-Botto-Re)
 
 ### Donate
