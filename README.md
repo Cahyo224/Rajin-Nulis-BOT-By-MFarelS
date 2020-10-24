@@ -1,5 +1,5 @@
 <p align="center">
-<a href="#"><img title="MagerNulis BOT by MFarelS" src="https://img.shields.io/badge/Rajin Nulis BOT WhatsApp-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Rajin Nulis BOT by MFarelS" src="https://img.shields.io/badge/Rajin Nulis BOT WhatsApp-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/mfarelsyahtiawan"><img title="Author" src="https://img.shields.io/badge/Author-mfarelsyahtiawan-red.svg?style=for-the-badge&logo=github"></a>
@@ -70,6 +70,8 @@ Apapun Yang Anda Kirimkan Kepada BOT Kami Tidak Bertanggung Jawab, Semua Data, U
 | Premium  |              Fitur                |
 | :------------: | :---------------------------------------------: |
 |       ✅        |   Ada Hari, Tanggal, Bulan, Tahun            |
+|       ✅        | Bisa Req Kertas Pake Kertas Sendiri |
+|     ✅     | Dapet Akses Beta |
 
 | Cooming Soon |
 | :----------: |
@@ -84,7 +86,7 @@ Apapun Yang Anda Kirimkan Kepada BOT Kami Tidak Bertanggung Jawab, Semua Data, U
 | /magernulis10 |
 
 ## How To Use Premium Feature
-Donate Me Min Rp100.000 And Chat Me [`wa.me/6281219087237`](https://wa.me/6281219087237) 
+Donate Me Min Rp50.000 And Chat Me [`wa.me/6281219087237`](https://wa.me/6281219087237) 
 
 ## Special Thanks to
 * [`Open-Wa/wa-automate-nodejs`](https://github.com/open-wa/wa-automate-nodejs)
