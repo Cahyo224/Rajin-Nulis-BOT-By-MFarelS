@@ -98,6 +98,7 @@ Donate Me Min Rp50.000 And Chat Me [`wa.me/6281219087237`](https://wa.me/6281219
 * [`Ilham`](https://instagram.com/nezuko.chan.12) 
 * [`Rozie`](https://instagram.com/_rooziee)
 * [`Dandy`](https://github.com/dandyraka)
+* [`Will`](https://instagram.com/its.willl_) 
 * [`SomnathDas/Whatsapp-Botto-Re`](https://github.com/SomnathDas/Whatsapp-Botto-Re)
 
 ### Donate
