@@ -83,7 +83,7 @@ Apapun Yang Anda Kirimkan Kepada BOT Kami Tidak Bertanggung Jawab, Semua Data, U
 | /magernulis10 |
 
 ## How To Use Premium Feature
-Donate Me Min Rp25.000 And Chat Me [`wa.me/6281219087237`](https://wa.me/6281219087237) 
+Donate Me Min Rp10.000 And Chat Me [`wa.me/6281219087237`](https://wa.me/6281219087237) 
 
 ## Special Thanks to
 * [`Open-Wa/wa-automate-nodejs`](https://github.com/open-wa/wa-automate-nodejs)
