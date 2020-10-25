@@ -1,5 +1,5 @@
 /*
-Mau Recode? Izin Dong Bgsd!
+:v recode ae gpp yang penting bagian donate, credit, author jgn diubh:v
 */
 const { decryptMedia } = require('@open-wa/wa-decrypt')
 const fs = require('fs-extra')
