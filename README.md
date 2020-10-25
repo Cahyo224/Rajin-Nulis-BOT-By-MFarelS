@@ -68,7 +68,6 @@ Apapun Yang Anda Kirimkan Kepada BOT Kami Tidak Bertanggung Jawab, Semua Data, U
 | :------------: | :---------------------------------------------: |
 |       ✅        |   Ada Hari, Tanggal, Bulan, Tahun            |
 |       ✅        | Bisa Req Kertas Pake Kertas Sendiri |
-|     ✅     | Dapet Akses Beta |
 
 | Cooming Soon |
 | :----------: |
