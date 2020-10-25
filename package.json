@@ -1,5 +1,5 @@
 {
-  "name": "whatsapp-bot",
+  "name": "Rajin-Nulis-BOT-By-MFarelS",
   "version": "2.0.0",
   "description": "Halo sesama pengguna, <b>whatsapp-bot</b> adalah skrip otomatisasi whatsapp atau lebih seperti bot yang merespons kata kunci tertentu dan beberapa fitur lain yang sedang kami kerjakan.",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Mhank BarBar",
+  "author": "MFarelS",
   "license": "Apache-2.0",
   "dependencies": {
     "@open-wa/wa-automate": "^2.0.28",
@@ -27,13 +27,13 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MFarelSyahtiawan/MagerNulis-BOT-By-MFarelS.git"
+    "url": "git+https://github.com/MFarelSyahtiawan/Rajin-Nulis-BOT-By-MFarelS.git"
   },
   "keywords": [
     "WhatsApp-Bot"
   ],
   "bugs": {
-    "url": "https://github.com/MFarelSyahtiawan/MagerNulis-BOT-By-MFarelS/issues"
+    "url": "https://github.com/MFarelSyahtiawan/Rajin-Nulis-BOT-By-MFarelS/issues"
   },
-  "homepage": "https://github.com/MFarelSyahtiawan/MagerNulis-BOT-By-MFarelS"
+  "homepage": "https://github.com/MFarelSyahtiawan/Rajin-Nulis-BOT-By-MFarelS"
 }
