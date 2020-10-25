@@ -6,9 +6,9 @@
 </p>
 <p align="center">
 <a href="https://github.com/mfarelsyahtiawan/followers"><img title="Followers" src="https://img.shields.io/github/followers/mfarelsyahtiawan?color=blue&style=flat-square"></a>
-<a href="https://github.com/mfarelsyahtiawan/MagerNulis-BOT-By-MFarelS/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mfarelsyahtiawan/MagerNulis-BOT-By-MFarelS?color=red&style=flat-square"></a>
-<a href="https://github.com/mfarelsyahtiawan/MagerNulis-BOT-By-MFarelS/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mfarelsyahtiawan/MagerNulis-BOT-By-MFarelS?color=red&style=flat-square"></a>
-<a href="https://github.com/mfarelsyahtiawan/MagerNulis-BOT-By-MFarelS/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mfarelsyahtiawan/MagerNulis-BOT-By-MFarelS?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/mfarelsyahtiawan/Rajin-Nulis-BOT-By-MFarelS/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mfarelsyahtiawan/Rajin-Nulis-BOT-By-MFarelS?color=red&style=flat-square"></a>
+<a href="https://github.com/mfarelsyahtiawan/Rajin-Nulis-BOT-By-MFarelS/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mfarelsyahtiawan/  Rajin-Nulis-BOT-By-MFarelS?color=red&style=flat-square"></a>
+<a href="https://github.com/mfarelsyahtiawan/Rajin-Nulis-BOT-By-MFarelS/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mfarelsyahtiawan/Rajin-Nulis-BOT-By-MFarelS?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 # Rajin Nulis BOT WhatsApp By MFarelS
@@ -23,7 +23,7 @@
 ### Clone Project Ini
 
 ```Ketik :
-> git clone https://github.com/MFarelSyahtiawan/MagerNulis-BOT-By-MFarelS
+> git clone https://github.com/MFarelSyahtiawan/Rajin-Nulis-BOT-By-MFarelS
 ```
 
 ### Install Modul
@@ -83,7 +83,7 @@ Apapun Yang Anda Kirimkan Kepada BOT Kami Tidak Bertanggung Jawab, Semua Data, U
 | /magernulis10 |
 
 ## How To Use Premium Feature
-Donate Me Min Rp50.000 And Chat Me [`wa.me/6281219087237`](https://wa.me/6281219087237) 
+Donate Me Min Rp25.000 And Chat Me [`wa.me/6281219087237`](https://wa.me/6281219087237) 
 
 ## Special Thanks to
 * [`Open-Wa/wa-automate-nodejs`](https://github.com/open-wa/wa-automate-nodejs)
@@ -102,7 +102,7 @@ Donate Me Min Rp50.000 And Chat Me [`wa.me/6281219087237`](https://wa.me/6281219
 
 ### Donate
 * [`Saweria https://saweria.co/donate/mfarels`](https://saweria.co/donate/mfarels)
-* [`Pulsa/OVO/GOPAY 0812-1908-7237`](https://github.com/MFarelSyahtiawan/MagerNulis-BOT-By-MFarelS)
+* [`Pulsa/OVO/GOPAY 0812-1908-7237`](https://github.com/MFarelSyahtiawan/Rajin-Nulis-BOT-By-MFarelS)
 
 ### Me
 * [`YouTube`](https://m.youtube.com/channel/UCYfBSMa1JJbKwD8bNm-etiA)
