@@ -28,7 +28,7 @@ const start = async (client = new Client()) => {
         client.onAddedToGroup(((chat) => {
             let totalMem = chat.groupMetadata.participants.length
             if (totalMem < 1) { 
-            	client.sendText(chat.id, `Cih member nya cuma ${totalMem}, Kalo mau invite bot, minimal jumlah mem ada 1`).then(() => client.leaveGroup(chat.id)).then(() => client.deleteChat(chat.id))
+            	client.sendText(chat.id, `Member nya cuma ${totalMem}, Kalo mau invite bot, minimal jumlah mem ada 1`).then(() => client.leaveGroup(chat.id)).then(() => client.deleteChat(chat.id))
             } else {
                 client.sendText(chat.groupMetadata.id, `Halo warga grup *${chat.contact.name}* terimakasih sudah menginvite bot ini, untuk melihat menu silahkan kirim /help atau /menu\nNote : Aga Pending`)
             }
