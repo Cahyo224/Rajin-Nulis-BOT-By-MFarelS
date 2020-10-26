@@ -17,6 +17,7 @@
 [`Git`](https://git-scm.com/downloads)
 [`NodeJS`](https://nodejs.org/en/download) 
 [`ImageMagick`](https://imagemagick.org/script/download.php) 
+[`Indie-Flower Font`](https://fonts.google.com/specimen/Indie+Flower) 
 
 ## Open CMD
 
