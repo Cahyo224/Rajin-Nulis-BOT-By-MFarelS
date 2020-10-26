@@ -29,7 +29,7 @@ Waktu Install ImageMagick Centang Kolom 1,2,3,5,6.
 ### Clone Project Ini
 
 ```Ketik :
-> git clone https://github.com/MFarelSyahtiawan/Rajin-Nulis-BOT-By-MFarelS
+> git clone https://github.com/MFarelS/Rajin-Nulis-BOT-By-MFarelS
 ```
 
 ### Install Modul
