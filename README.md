@@ -19,6 +19,11 @@
 [`ImageMagick`](https://imagemagick.org/script/download.php) 
 [`Indie-Flower Font`](https://fonts.google.com/specimen/Indie+Flower) 
 
+### Note
+```note :
+Waktu Install ImageMagick Centang Kolom 1,2,3,5,6.
+```
+
 ## Open CMD
 
 ### Clone Project Ini
