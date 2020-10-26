@@ -135,7 +135,7 @@ module.exports = msgHandler = async (client, message) => {
             break
         case '/menu':
         case '/help':
-            client.sendFileFromUrl(from, 'https://i.ibb.co/qBFBHxz/menu.jpg', 'bot.jpg', help)
+            client.sendFileFromUrl(from, 'https://i.ibb.co/p2DnHv7/menu.jpg', 'bot.jpg', help)
             break
         case '/info':
             client.sendLinkWithAutoPreview(from, 'https://m.youtube.com/channel/UCYfBSMa1JJbKwD8bNm-etiA', info)
