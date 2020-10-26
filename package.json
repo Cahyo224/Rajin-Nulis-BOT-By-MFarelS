@@ -27,13 +27,13 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MFarelSyahtiawan/Rajin-Nulis-BOT-By-MFarelS.git"
+    "url": "git+https://github.com/MFarelS/Rajin-Nulis-BOT-By-MFarelS.git"
   },
   "keywords": [
     "WhatsApp-Bot"
   ],
   "bugs": {
-    "url": "https://github.com/MFarelSyahtiawan/Rajin-Nulis-BOT-By-MFarelS/issues"
+    "url": "https://github.com/MFarelS/Rajin-Nulis-BOT-By-MFarelS/issues"
   },
-  "homepage": "https://github.com/MFarelSyahtiawan/Rajin-Nulis-BOT-By-MFarelS"
+  "homepage": "https://github.com/MFarelS/Rajin-Nulis-BOT-By-MFarelS"
 }
