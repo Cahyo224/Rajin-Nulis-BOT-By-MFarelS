@@ -2,13 +2,13 @@
 <a href="#"><img title="Rajin Nulis BOT by MFarelS" src="https://img.shields.io/badge/Rajin Nulis BOT WhatsApp-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/mfarelsyahtiawan"><img title="Author" src="https://img.shields.io/badge/Author-mfarelsyahtiawan-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/MFarelS"><img title="Author" src="https://img.shields.io/badge/Author-MFarelS-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/mfarelsyahtiawan/followers"><img title="Followers" src="https://img.shields.io/github/followers/mfarelsyahtiawan?color=blue&style=flat-square"></a>
-<a href="https://github.com/mfarelsyahtiawan/Rajin-Nulis-BOT-By-MFarelS/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mfarelsyahtiawan/Rajin-Nulis-BOT-By-MFarelS?color=red&style=flat-square"></a>
-<a href="https://github.com/mfarelsyahtiawan/Rajin-Nulis-BOT-By-MFarelS/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mfarelsyahtiawan/  Rajin-Nulis-BOT-By-MFarelS?color=red&style=flat-square"></a>
-<a href="https://github.com/mfarelsyahtiawan/Rajin-Nulis-BOT-By-MFarelS/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mfarelsyahtiawan/Rajin-Nulis-BOT-By-MFarelS?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/MFarelS/followers"><img title="Followers" src="https://img.shields.io/github/followers/MFarelS?color=blue&style=flat-square"></a>
+<a href="https://github.com/MFarelS/Rajin-Nulis-BOT-By-MFarelS/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/MFarelS/Rajin-Nulis-BOT-By-MFarelS?color=red&style=flat-square"></a>
+<a href="https://github.com/MFarelS/Rajin-Nulis-BOT-By-MFarelS/network/members"><img title="Forks" src="https://img.shields.io/github/forks/MFarelS/  Rajin-Nulis-BOT-By-MFarelS?color=red&style=flat-square"></a>
+<a href="https://github.com/MFarelS/Rajin-Nulis-BOT-By-MFarelS/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/MFarelS/Rajin-Nulis-BOT-By-MFarelS?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 # Rajin Nulis BOT WhatsApp By MFarelS
